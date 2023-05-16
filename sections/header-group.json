@@ -43,7 +43,7 @@
     "e123507a-3c8a-47dd-8017-40e7882f49eb": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{{ page.title }}",
+        "custom_liquid": "<h1>{{ page.title }}<\/h1>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
